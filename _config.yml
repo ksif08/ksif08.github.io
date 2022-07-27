@@ -1,0 +1,38 @@
+# Site Info
+title: "KAIST Student Investment Fund"
+tagline: ""
+description: ""
+baseurl: ""
+url: https://ksif08.github.io
+logo: ""
+
+# Site configurations
+#gems:
+#  - jekyll-paginate
+#markdown: kramdown
+#kramdown:
+#  input: GFM
+#excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+#paginate:
+#paginate_path: ''
+#permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: KSIF
+  description: KSIF
+  contact:
+    # linkedin:
+    github:    https://github.com/ksif08
+    #    facebook:
+    # twitter:
+    # weibo:
+    email:    mailto:ksif@kaist.ac.kr
+
+google_analytics:
+  ua: 'G-M1FX92MRK9'
