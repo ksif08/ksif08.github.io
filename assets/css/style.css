@@ -1249,7 +1249,7 @@ textarea.form-input {
 .case-img>img {
     width: 100%;
     transform: scale(1);
-    opacity: 0.5;
+    opacity: 0.8;
     transition: all 0.3s ease;
 }
 
@@ -1275,7 +1275,7 @@ textarea.form-input {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: #e70e0e;
+    background-color: #991a1a;
     z-index: -1;
     transform: translateY(100%);
     transition: all 0.3s ease;
